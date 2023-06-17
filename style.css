@@ -91,7 +91,7 @@ img{
     align-self: flex-end;
 }
 
-@media only screen and (min-width:40rem) {
+@media only screen and (min-width:768px) {
 
     .introduction{
         margin: 4rem 2rem;
@@ -121,7 +121,7 @@ img{
 
 }
 
-@media only screen and (min-width: 60rem){
+@media only screen and (min-width: 1200px){
 
     .introduction{
         margin: 4rem 0;
